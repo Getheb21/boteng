@@ -13,9 +13,9 @@ from playwright.async_api import async_playwright
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-TOKEN = "8667041464:AAEQKaDu1-JR7IwUOnnH-YNKUPXm6Hwlnw0"
-GROUP_ID = -1003971893833
-ADMIN_ID = 1564275538
+TOKEN = "8293365930:AAEPA3dpgJLB2R106NT-0cf8Dm_kWkBF1U0"
+GROUP_ID = -1004339334563
+ADMIN_ID = 6790347169
 
 app = FastAPI()
 telegram_app = None
