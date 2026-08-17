@@ -13,7 +13,7 @@ from playwright.async_api import async_playwright
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-TOKEN = "8293365930:AAEPA3dpgJLB2R106NT-0cf8Dm_kWkBF1U0"
+TOKEN = "8121316656:AAEexTNi-eD8evJyV6wQt7srwSV_Doxuwhk"
 GROUP_ID = -1004339334563
 ADMIN_ID = 6790347169
 
